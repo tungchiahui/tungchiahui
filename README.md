@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📫 **How to reach me:**  
-- **Telegram:** [@XayahSuSuSu](https://t.me/XayahSuSuSu)
+- **Telegram:** [@Tung Chia-hui](https://t.me/TungChiahui)
 
-- **Blog:** [AcmeZone](https://acmezone.top)
+<!--    - **Blog:** [AcmeZone](https://acmezone.top)    -->
 ****
-[![Xayah's github stats](https://github-readme-stats.vercel.app/api?username=XayahSuSuSu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![tungchiahui's github stats](https://github-readme-stats.vercel.app/api?username=tungchiahui&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ****
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XayahSuSuSu)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui)](https://github.com/anuraghazra/github-readme-stats)
