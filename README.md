@@ -28,7 +28,7 @@
 
 ## My Projects📚
 - [2023第二十三届全国机器人大赛Robocon机器人ER&RR: 两台机器人：一台舵轮底盘大象机器人，一台麦克纳姆轮底盘兔子机器人](https://github.com/SDUTVINCI/ROBOCON_VINCI/tree/main/0.Historical_ROBOCON/2023ROBOCON)
-- [麦克纳姆轮导航小车下位机: 机器人主要基于FreeRTOS-STM32F4平台](https://github.com/SDUTVINCI/ROBOCON_VINCI/tree/main/0.Historical_ROBOCON/2023ROBOCON)
+- [麦克纳姆轮导航小车下位机: 机器人主要基于FreeRTOS-STM32F4平台](https://github.com/CyberNaviRobot/STM32_FreeRTOS_MainController)
 - [麦克纳姆轮导航小车上位机自主导航: 机器人主要基于ROS2平台](https://github.com/CyberNaviRobot/CyberRobot_ROS2_WS)
 - [CMake模板: 自用CMake工程模板](https://github.com/tungchiahui/CMake_Template)
 
