@@ -43,12 +43,13 @@
       <a href=""><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" ></a>&emsp;
-      <!-- <a href=""><img src="https://img.shields.io/badge/OpenCV4-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" ></a>&emsp; -->
+      <!-- <a href=""><img src="https://img.shields.io/badge/OpenCV4-EA7E20?style=for-the-badge&logo=opencv&logoColor=white" ></a>&emsp; -->
       <!-- 下位机 -->
       <a href=""><img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logo=arm&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/OpenCV4-EA7E20?style=for-the-badge&logo=OpenCV&logoColor=white" ></a>&emsp;
       <!-- 前端 -->
-      <a href=""><img src="https://img.shields.io/badge/Qt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" ></a>&emsp;
+      <a href=""><img src="https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" ></a>&emsp;
       <!-- <a href=""><img src="https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" ></a>&emsp; -->
 </p>
 
