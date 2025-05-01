@@ -1,0 +1,38 @@
+repositories:
+  tungchiahui:
+    type: git
+    url: https://github.com/tungchiahui/tungchiahui.git
+    version: main
+  ros_ws:
+    type: git
+    url: https://github.com/tungchiahui/ROS_WS.git
+    version: main
+  oepncv_projects:
+    type: git
+    url: https://github.com/tungchiahui/OpenCV_Projects.git
+    version: main
+  stm32_projetcts:
+    type: git
+    url: https://github.com/tungchiahui/STM32_Projects.git
+    version: main
+  mdk6_template:
+    type: git
+    url: https://github.com/tungchiahui/CubeMX_MDK5to6_Template.git
+    version: main
+  serial_pack:
+    type: git
+    url: https://github.com/tungchiahui/Serial_Pack.git
+    version: main
+  ros-docker:
+    type: git
+    url: https://github.com/tungchiahui/ros-docker.git
+    version: main
+  CyberRobotROS:
+    type: git
+    url: https://github.com/CyberNaviRobot/CyberRobot_ROS2_Jazzy_WS.git
+    version: main
+  CyberRobotMCU:
+    type: git
+    url: https://github.com/CyberNaviRobot/STM32_FreeRTOS_MainController.git
+    version: main
+  
