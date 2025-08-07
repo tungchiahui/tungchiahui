@@ -4,7 +4,7 @@
 
 ## Contact Me
 <p align="center"> 
-  <a href="https://tungchiahui.github.io/"><img src="https://img.shields.io/badge/Blog-tungchiahui-FF5722?style=for-the-badge&logo=blogger&logoColor=white" ></a>&emsp;
+  <a href="https://tungchiahui-github-io.pages.dev"><img src="https://img.shields.io/badge/Blog-tungchiahui-FF5722?style=for-the-badge&logo=blogger&logoColor=white" ></a>&emsp;
   <a href="https://github.com/tungchiahui"><img src="https://img.shields.io/badge/GitHub-tungchiahui-181717?style=for-the-badge&logo=github&logoColor=white" ></a>&emsp;
   <a href="mailto:tungchiahui@gmail.com"><img src="https://img.shields.io/badge/Gmail-tungchiahui-EA4335?style=for-the-badge&logo=gmail&logoColor=white" ></a>&emsp;
   <a href="https://t.me/tungchiahui"><img src="https://img.shields.io/badge/Telegram-tungchiahui-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" ></a>&emsp;
