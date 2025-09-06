@@ -1,6 +1,7 @@
 <!-- 个人资料 -->
 ## Personal Information👤    
-[山东理工大学机电创新学会 Vinci 芬奇机器人队 21级队长](https://sdutvincirobot.tungchiahui.cn/)
+隶属于 [山东理工大学机电创新学会 Vinci 芬奇机器人队](https://sdutvincirobot.tungchiahui.cn/)，23赛季团队队长
+
 
 ## Contact Me
 <p align="center"> 
