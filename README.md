@@ -44,5 +44,6 @@
 </p>
 
 ****
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=tungchiahui&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=percentile"/>
-<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&locale=en&line_height=33&theme=&langs_count=6&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tungchiahui&show_icons=true" style="margin-right: 20px;" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&layout=compact" />
+
