@@ -11,22 +11,10 @@
   <a href="https://t.me/tungchiahui"><img src="https://img.shields.io/badge/Telegram-tungchiahui-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" ></a>&emsp;
   <a href="https://qm.qq.com/q/JRhksaNK82?from=tim"><img src="https://img.shields.io/badge/QQ-Tung.-007FFF?style=for-the-badge&logo=qq&logoColor=white" ></a>&emsp;
   <a href="http://www.coolapk.com/u/3224578"><img src="https://img.shields.io/badge/CoolAPK-东澈_Wizard-4CAF50?style=for-the-badge&logo=android&logoColor=white" ></a>&emsp;
-  </a>
   <a href="https://space.bilibili.com/141482453"><img src="https://img.shields.io/badge/bilibili-东澈_Wizard-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" ></a>&emsp;
-  </a>
-  <a href="https://www.youtube.com/@Chia-huiTung"><img src="https://img.shields.io/badge/Youtube-tungchiahui-FF0000?style=for-the-badge&logo=youtube&logoColor=white" ></a>&emsp;
-  </a>
-  <!-- <a href="https://space.bilibili.com/141482453"><img src="https://img.shields.io/badge/Twitter-tungchiahui-000000?style=for-the-badge&logo=x&logoColor=white" ></a>&emsp; -->
-  <!-- </a>
-  <a href="https://space.bilibili.com/141482453"><img src="https://img.shields.io/badge/facebook-tungchiahui-0866FF?style=for-the-badge&logo=facebook&logoColor=white" ></a>&emsp;
-  </a>
-  <a href="https://space.bilibili.com/141482453"><img src="https://img.shields.io/badge/instagram-tungchiahui-FF0069?style=for-the-badge&logo=instagram&logoColor=white" ></a>&emsp;
-  </a>
-  <a href="https://space.bilibili.com/141482453"><img src="https://img.shields.io/badge/Douyin-tungchiahui-000000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>&emsp;
-  </a>
-  <a href="https://space.bilibili.com/141482453"><img src="https://img.shields.io/badge/Tiktok-tungchiahui-000000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>&emsp;
-  </a> -->
+  <a href="https://www.youtube.com/@Chia-huiTung"><img src="https://img.shields.io/badge/Youtube-tungchiahui-FF0000?style=for-the-badge&logo=youtube&logoColor=white" ></a>
 </p>
+
 
 ## My Projects📚
 - [2023第二十三届全国机器人大赛Robocon机器人ER&RR: 两台机器人：一台舵轮底盘大象机器人，一台麦克纳姆轮底盘兔子机器人](https://github.com/SDUTVINCI/ROBOCON_VINCI/tree/main/0.Historical_ROBOCON/2023ROBOCON)
