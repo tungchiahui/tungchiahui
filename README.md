@@ -45,7 +45,7 @@
 </p>
 
 ****
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tungchiahui&show_icons=true&cache_seconds=1800" style="margin-right: 20px;" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&layout=compact&cache_seconds=1800" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tungchiahui&show_icons=true&cache_seconds=3600" style="margin-right: 20px;" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&layout=compact&cache_seconds=3600" />
 
 
