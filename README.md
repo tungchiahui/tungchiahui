@@ -9,7 +9,7 @@
   <a href="https://github.com/tungchiahui"><img src="https://img.shields.io/badge/GitHub-tungchiahui-181717?style=for-the-badge&logo=github&logoColor=white" ></a>&emsp;
   <a href="mailto:tungchiahui@gmail.com"><img src="https://img.shields.io/badge/Gmail-tungchiahui-EA4335?style=for-the-badge&logo=gmail&logoColor=white" ></a>&emsp;
   <a href="https://t.me/tungchiahui"><img src="https://img.shields.io/badge/Telegram-tungchiahui-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" ></a>&emsp;
-  <a href="https://qm.qq.com/q/JRhksaNK82?from=tim"><img src="https://img.shields.io/badge/QQ-Tung.-007FFF?style=for-the-badge&logo=qq&logoColor=white" ></a>&emsp;
+  <a href="https://qm.qq.com/q/JRhksaNK82?from=qq"><img src="https://img.shields.io/badge/QQ-Tung.-007FFF?style=for-the-badge&logo=qq&logoColor=white" ></a>&emsp;
   <a href="http://www.coolapk.com/u/3224578"><img src="https://img.shields.io/badge/CoolAPK-东澈_Wizard-4CAF50?style=for-the-badge&logo=android&logoColor=white" ></a>&emsp;
   <a href="https://space.bilibili.com/141482453"><img src="https://img.shields.io/badge/bilibili-东澈_Wizard-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" ></a>&emsp;
   <a href="https://www.youtube.com/@Chia-huiTung"><img src="https://img.shields.io/badge/Youtube-tungchiahui-FF0000?style=for-the-badge&logo=youtube&logoColor=white" ></a>
