@@ -22,7 +22,7 @@
 - [麦克纳姆轮导航小车下位机: 机器人主要基于FreeRTOS-STM32F4平台](https://github.com/CyberNaviRobot/STM32_FreeRTOS_MainController)
 - [麦克纳姆轮导航小车上位机自主导航: 机器人主要基于ROS2平台](https://github.com/CyberNaviRobot/CyberRobot_ROS2_Jazzy_WS)
 - [CMake模板: 自用CMake工程模板](https://github.com/tungchiahui/CMake_Template)
-- [基于Jekyll的个人网站开发](https://github.com/tungchiahui/Tung_Website.git)
+- [基于Jekyll的个人网站开发](https://github.com/tungchiahui/jekyll-theme-blog-tung.git)
 
 ## Tech Stack🛠️
 <p align="left"> 
