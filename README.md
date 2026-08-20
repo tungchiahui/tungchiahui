@@ -1,7 +1,7 @@
 <!-- 个人资料 -->
 ## Personal Information👤
 本科就读于[山东理工大学机械工程学院](https://jxxy.sdut.edu.cn/)机械电子工程（机器人工程方向）    <br>
-曾于 [山东理工大学机电创新学会 Vinci 芬奇机器人队](https://sdutvincirobot.top/) 任23赛季团队队长   <br>
+曾于 [山东理工大学机电创新学会 Vinci 芬奇机器人队](https://vinci.sdut.edu.cn/) 任23赛季团队队长   <br>
 目前就读于[燕山大学电气工程学院](https://iee.ysu.edu.cn/)人工智能硕士
 
 
