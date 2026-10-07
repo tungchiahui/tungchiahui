@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Tung Chia-hui — Robotics, ROS 2, Embedded Linux, STM32">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="58%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0b2239"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#8b949e" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+
+  <circle cx="1010" cy="75" r="120" fill="#1f6feb" opacity=".12" filter="url(#glow)"/>
+  <circle cx="1100" cy="235" r="105" fill="#2dd4bf" opacity=".10" filter="url(#glow)"/>
+
+  <g opacity=".42" stroke="url(#accent)" stroke-width="2" fill="none">
+    <path d="M850 84 H970 L1010 124 H1140"/>
+    <path d="M820 150 H935 L980 195 H1130"/>
+    <path d="M875 230 H1000 L1040 190 H1160"/>
+    <circle cx="850" cy="84" r="5" fill="#58a6ff"/>
+    <circle cx="820" cy="150" r="5" fill="#58a6ff"/>
+    <circle cx="875" cy="230" r="5" fill="#58a6ff"/>
+    <circle cx="1010" cy="124" r="5" fill="#2dd4bf"/>
+    <circle cx="980" cy="195" r="5" fill="#2dd4bf"/>
+    <circle cx="1040" cy="190" r="5" fill="#2dd4bf"/>
+  </g>
+
+  <rect x="68" y="54" width="86" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="68" y="126" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing=".4">Tung Chia-hui</text>
+  <text x="70" y="163" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="500">@tungchiahui · DawnChey</text>
+  <text x="68" y="216" fill="#c9d1d9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">Robotics · ROS 2 · Embedded Linux · STM32</text>
+  <text x="70" y="251" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Building autonomous robotic systems from firmware to navigation stack.</text>
+</svg>
