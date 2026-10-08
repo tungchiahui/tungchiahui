@@ -98,9 +98,9 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 
 ## 📊 GitHub
 
-<p align="center"><b>GitHub Statistics</b></p>
+<p align="left"><b>GitHub Statistics</b></p>
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg?v=25e742f370e1" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=feb8162a70ee" />
@@ -108,9 +108,9 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
   </picture>
 </p>
 
-<p align="center"><b>Top Languages by Code Size</b></p>
+<p align="left"><b>Top Languages by Code Size</b></p>
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages-dark.svg?v=ec2d198a9f9d" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/top-languages-light.svg?v=8e230c1b99aa" />
@@ -118,9 +118,9 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
   </picture>
 </p>
 
-<p align="center"><b>Repositories by Primary Language</b></p>
+<p align="left"><b>Repositories by Primary Language</b></p>
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/repos-by-primary-language-percent-dark.svg?v=11f28e7e4a09" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/repos-by-primary-language-percent-light.svg?v=45a825a74166" />
@@ -128,7 +128,7 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
   </picture>
 </p>
 
-<p align="center">
+<p align="left">
   <sub>
     Top Languages = code-size distribution · Primary Language = each public non-fork repository contributes exactly one vote.<br>
     Cards are generated from GitHub public data and refreshed automatically by GitHub Actions.
