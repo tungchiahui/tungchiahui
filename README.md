@@ -104,7 +104,7 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg?v=42d8286f8330" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=a71cb6bef1a2" />
-    <img height="165" alt="Tung Chia-hui GitHub stats" src="./assets/github-stats-light.svg?v=a71cb6bef1a2" />
+    <img width="560" alt="Tung Chia-hui GitHub stats" src="./assets/github-stats-light.svg?v=a71cb6bef1a2" />
   </picture>
 </p>
 
@@ -114,7 +114,7 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages-dark.svg?v=adffefdcd9a5" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/top-languages-light.svg?v=09f7622739d8" />
-    <img height="165" alt="Top languages by code size" src="./assets/top-languages-light.svg?v=09f7622739d8" />
+    <img width="560" alt="Top languages by code size" src="./assets/top-languages-light.svg?v=09f7622739d8" />
   </picture>
 </p>
 
