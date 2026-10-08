@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Tung Chia-hui profile banner" />
+  <img src="./assets/profile-header.svg?v=059b0942afc0" width="100%" alt="Tung Chia-hui profile banner" />
 </p>
 
 <p align="center">
@@ -98,9 +98,9 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg?v=101159ed8fa4" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=9ada62053351" />
-    <img height="165" alt="Tung Chia-hui GitHub stats" src="./assets/github-stats-light.svg?v=9ada62053351" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg?v=f6d1b3dbe171" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=8fb25e710ce4" />
+    <img height="165" alt="Tung Chia-hui GitHub stats" src="./assets/github-stats-light.svg?v=8fb25e710ce4" />
   </picture>
 </p>
 
