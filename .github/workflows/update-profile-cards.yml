@@ -8,6 +8,7 @@ on:
     branches:
       - main
     paths:
+      - "assets/profile-header.svg"
       - "scripts/update_profile_cards.py"
       - ".github/workflows/update-profile-cards.yml"
 
