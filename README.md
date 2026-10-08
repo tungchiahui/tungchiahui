@@ -102,9 +102,9 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg?v=10635e4aa871" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=b3fdbea54b1c" />
-    <img height="165" alt="Tung Chia-hui GitHub stats" src="./assets/github-stats-light.svg?v=b3fdbea54b1c" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg?v=42d8286f8330" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=a71cb6bef1a2" />
+    <img height="165" alt="Tung Chia-hui GitHub stats" src="./assets/github-stats-light.svg?v=a71cb6bef1a2" />
   </picture>
 </p>
 
@@ -112,9 +112,9 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages-dark.svg?v=ec2d198a9f9d" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/top-languages-light.svg?v=8e230c1b99aa" />
-    <img height="165" alt="Top languages by code size" src="./assets/top-languages-light.svg?v=8e230c1b99aa" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages-dark.svg?v=adffefdcd9a5" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/top-languages-light.svg?v=09f7622739d8" />
+    <img height="165" alt="Top languages by code size" src="./assets/top-languages-light.svg?v=09f7622739d8" />
   </picture>
 </p>
 

@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Tung Chia-hui GitHub statistics">
-  <rect x="0.5" y="0.5" width="494" height="194" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-label="Tung Chia-hui GitHub statistics">
+  <rect x="0.5" y="0.5" width="559" height="219" rx="12" fill="#ffffff" stroke="#d0d7de"/>
   <style>
     text { font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; }
     .title { font-size: 22px; font-weight: 600; fill: #0969da; }
@@ -8,21 +8,21 @@
     .value { font-size: 15px; font-weight: 600; fill: #24292f; }
     .muted { font-size: 12px; fill: #57606a; }
   </style>
-  <text x="26" y="38" class="title">Tung Chia-hui's GitHub Stats</text>
-  <circle cx="31" cy="69" r="4" fill="#0969da"/>
-  <text x="45" y="74" class="text">Total Stars</text>
-  <text x="455" y="74" text-anchor="end" class="value">11</text>
-  <circle cx="31" cy="93" r="4" fill="#0969da"/>
-  <text x="45" y="98" class="text">Total Commits</text>
-  <text x="455" y="98" text-anchor="end" class="value">1,566</text>
-  <circle cx="31" cy="117" r="4" fill="#0969da"/>
-  <text x="45" y="122" class="text">Total PRs</text>
-  <text x="455" y="122" text-anchor="end" class="value">43</text>
-  <circle cx="31" cy="141" r="4" fill="#0969da"/>
-  <text x="45" y="146" class="text">Total Issues</text>
-  <text x="455" y="146" text-anchor="end" class="value">21</text>
-  <circle cx="31" cy="165" r="4" fill="#0969da"/>
-  <text x="45" y="170" class="text">Public Repos</text>
-  <text x="455" y="170" text-anchor="end" class="value">36</text>
-  <text x="26" y="186" class="muted">Public GitHub data · updated 2026-10-08</text>
+  <text x="30" y="42" class="title">Tung Chia-hui's GitHub Stats</text>
+  <circle cx="36" cy="76" r="4.5" fill="#0969da"/>
+  <text x="52" y="82" class="text">Total Stars</text>
+  <text x="505" y="82" text-anchor="end" class="value">11</text>
+  <circle cx="36" cy="104" r="4.5" fill="#0969da"/>
+  <text x="52" y="110" class="text">Total Commits</text>
+  <text x="505" y="110" text-anchor="end" class="value">1,566</text>
+  <circle cx="36" cy="132" r="4.5" fill="#0969da"/>
+  <text x="52" y="138" class="text">Total PRs</text>
+  <text x="505" y="138" text-anchor="end" class="value">43</text>
+  <circle cx="36" cy="160" r="4.5" fill="#0969da"/>
+  <text x="52" y="166" class="text">Total Issues</text>
+  <text x="505" y="166" text-anchor="end" class="value">21</text>
+  <circle cx="36" cy="188" r="4.5" fill="#0969da"/>
+  <text x="52" y="194" class="text">Public Repos</text>
+  <text x="505" y="194" text-anchor="end" class="value">36</text>
+  <text x="30" y="205" class="muted">Public GitHub data · updated 2026-10-08</text>
 </svg>
