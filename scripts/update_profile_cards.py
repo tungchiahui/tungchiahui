@@ -151,17 +151,17 @@ def render_stats(theme: str, stats: dict[str, int], updated: str) -> str:
         ("Total Issues", stats["issues"]),
         ("Public Repos", stats["repos"]),
     ]
-    y0 = 74
+    y0 = 82
     parts = [
-        '  <text x="26" y="38" class="title">Tung Chia-hui\'s GitHub Stats</text>',
+        '  <text x="30" y="42" class="title">Tung Chia-hui\'s GitHub Stats</text>',
     ]
     for i, (label, value) in enumerate(rows):
-        y = y0 + i * 24
-        parts.append(f'  <circle cx="31" cy="{y - 5}" r="4" fill="{t["accent"]}"/>')
-        parts.append(f'  <text x="45" y="{y}" class="text">{escape(label)}</text>')
-        parts.append(f'  <text x="455" y="{y}" text-anchor="end" class="value">{value:,}</text>')
-    parts.append(f'  <text x="26" y="186" class="muted">Public GitHub data · updated {escape(updated)}</text>')
-    return svg_shell(495, 195, theme, "\n".join(parts), "Tung Chia-hui GitHub statistics")
+        y = y0 + i * 28
+        parts.append(f'  <circle cx="36" cy="{y - 6}" r="4.5" fill="{t["accent"]}"/>')
+        parts.append(f'  <text x="52" y="{y}" class="text">{escape(label)}</text>')
+        parts.append(f'  <text x="505" y="{y}" text-anchor="end" class="value">{value:,}</text>')
+    parts.append(f'  <text x="30" y="205" class="muted">Public GitHub data · updated {escape(updated)}</text>')
+    return svg_shell(560, 220, theme, "\n".join(parts), "Tung Chia-hui GitHub statistics")
 
 
 def render_top_languages(theme: str, language_bytes: Counter[str], updated: str) -> str:
@@ -171,12 +171,13 @@ def render_top_languages(theme: str, language_bytes: Counter[str], updated: str)
         raise RuntimeError("No language byte data found")
 
     ranked = language_bytes.most_common(6)
-    width = 495
-    bar_x, bar_y, bar_w, bar_h = 26, 61, 443, 10
+    width = 560
+    height = 220
+    bar_x, bar_y, bar_w, bar_h = 30, 70, 500, 12
 
     parts = [
-        '  <text x="26" y="36" class="title">Top Languages</text>',
-        f'  <rect x="{bar_x}" y="{bar_y}" width="{bar_w}" height="{bar_h}" rx="5" fill="{t["track"]}"/>',
+        '  <text x="30" y="42" class="title">Top Languages</text>',
+        f'  <rect x="{bar_x}" y="{bar_y}" width="{bar_w}" height="{bar_h}" rx="6" fill="{t["track"]}"/>',
     ]
 
     cursor = bar_x
@@ -188,19 +189,19 @@ def render_top_languages(theme: str, language_bytes: Counter[str], updated: str)
         )
         cursor += seg
 
-    col_x = [28, 262]
-    start_y = 100
+    col_x = [30, 300]
+    start_y = 112
     for i, (name, size) in enumerate(ranked):
         col = i // 3
         row = i % 3
         x = col_x[col]
-        y = start_y + row * 30
+        y = start_y + row * 32
         pct = size / total * 100
-        parts.append(f'  <circle cx="{x + 5}" cy="{y - 5}" r="5" fill="{color_for(name)}"/>')
-        parts.append(f'  <text x="{x + 18}" y="{y}" class="label">{escape(name)} {pct:.2f}%</text>')
+        parts.append(f'  <circle cx="{x + 6}" cy="{y - 5}" r="5" fill="{color_for(name)}"/>')
+        parts.append(f'  <text x="{x + 20}" y="{y}" class="label">{escape(name)} {pct:.2f}%</text>')
 
-    parts.append(f'  <text x="26" y="186" class="muted">Language bytes across public, non-fork repositories · updated {escape(updated)}</text>')
-    return svg_shell(width, 195, theme, "\n".join(parts), "Top languages by code size")
+    parts.append(f'  <text x="30" y="205" class="muted">Language bytes across public, non-fork repositories · updated {escape(updated)}</text>')
+    return svg_shell(width, height, theme, "\n".join(parts), "Top languages by code size")
 
 
 def render_primary_languages(theme: str, primary_counts: Counter[str], updated: str) -> str:
