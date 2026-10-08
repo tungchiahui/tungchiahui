@@ -5,7 +5,7 @@ Data source: GitHub REST API only.
 Generated files:
   assets/github-stats-{light,dark}.svg
   assets/top-languages-{light,dark}.svg
-  assets/repos-by-primary-language-{light,dark}.svg
+  assets/repos-by-primary-language-percent-{light,dark}.svg
 """
 
 from __future__ import annotations
@@ -282,7 +282,7 @@ def main() -> None:
         (OUT / f"top-languages-{theme}.svg").write_text(
             render_top_languages(theme, language_bytes, updated), encoding="utf-8"
         )
-        (OUT / f"repos-by-primary-language-{theme}.svg").write_text(
+        (OUT / f"repos-by-primary-language-percent-{theme}.svg").write_text(
             render_primary_languages(theme, primary_counts, updated), encoding="utf-8"
         )
 
