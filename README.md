@@ -2,9 +2,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg" />
-    <img src="./assets/profile-header-light.svg" width="100%" alt="Tung Chia-hui profile banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg?v=059b0942afc0" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg?v=d8e896c88f53" />
+    <img src="./assets/profile-header-light.svg?v=d8e896c88f53" width="100%" alt="Tung Chia-hui profile banner" />
   </picture>
 </p>
 
@@ -102,9 +102,9 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg?v=f6d1b3dbe171" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=8fb25e710ce4" />
-    <img height="165" alt="Tung Chia-hui GitHub stats" src="./assets/github-stats-light.svg?v=8fb25e710ce4" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg?v=701699915720" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=903067dc8bb5" />
+    <img height="165" alt="Tung Chia-hui GitHub stats" src="./assets/github-stats-light.svg?v=903067dc8bb5" />
   </picture>
 </p>
 
