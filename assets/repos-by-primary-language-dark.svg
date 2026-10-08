@@ -14,43 +14,43 @@
     <text x="28" y="105" class="label">C++</text>
     <rect x="145" y="92" width="325" height="12" rx="6" fill="#21262d"/>
     <rect x="145" y="92" width="325" height="12" rx="6" fill="#f34b7d"/>
-    <text x="495" y="105" class="count">15</text>
+    <text x="485" y="105" class="count">53.57%</text>
 
     <text x="28" y="136" class="label">C</text>
     <rect x="145" y="123" width="325" height="12" rx="6" fill="#21262d"/>
     <rect x="145" y="123" width="87" height="12" rx="6" fill="#555555"/>
-    <text x="495" y="136" class="count">4</text>
+    <text x="485" y="136" class="count">14.29%</text>
 
     <text x="28" y="167" class="label">CMake</text>
     <rect x="145" y="154" width="325" height="12" rx="6" fill="#21262d"/>
     <rect x="145" y="154" width="65" height="12" rx="6" fill="#DA3434"/>
-    <text x="495" y="167" class="count">3</text>
+    <text x="485" y="167" class="count">10.71%</text>
 
     <text x="28" y="198" class="label">HTML</text>
     <rect x="145" y="185" width="325" height="12" rx="6" fill="#21262d"/>
     <rect x="145" y="185" width="43" height="12" rx="6" fill="#e34c26"/>
-    <text x="495" y="198" class="count">2</text>
+    <text x="485" y="198" class="count">7.14%</text>
 
     <text x="28" y="229" class="label">Shell</text>
     <rect x="145" y="216" width="325" height="12" rx="6" fill="#21262d"/>
     <rect x="145" y="216" width="22" height="12" rx="6" fill="#89e051"/>
-    <text x="495" y="229" class="count">1</text>
+    <text x="485" y="229" class="count">3.57%</text>
 
     <text x="28" y="260" class="label">Dockerfile</text>
     <rect x="145" y="247" width="325" height="12" rx="6" fill="#21262d"/>
     <rect x="145" y="247" width="22" height="12" rx="6" fill="#384d54"/>
-    <text x="495" y="260" class="count">1</text>
+    <text x="485" y="260" class="count">3.57%</text>
 
     <text x="28" y="291" class="label">Dart</text>
     <rect x="145" y="278" width="325" height="12" rx="6" fill="#21262d"/>
     <rect x="145" y="278" width="22" height="12" rx="6" fill="#00B4AB"/>
-    <text x="495" y="291" class="count">1</text>
+    <text x="485" y="291" class="count">3.57%</text>
 
     <text x="28" y="322" class="label">JavaScript</text>
     <rect x="145" y="309" width="325" height="12" rx="6" fill="#21262d"/>
     <rect x="145" y="309" width="22" height="12" rx="6" fill="#f1e05a"/>
-    <text x="495" y="322" class="count">1</text>
+    <text x="485" y="322" class="count">3.57%</text>
   </g>
 
-  <text x="28" y="348" class="sub">28 repositories with a detected primary language · snapshot 2026-10-08</text>
+  <text x="28" y="348" class="sub">Share of public, non-fork repositories by GitHub primary language</text>
 </svg>
