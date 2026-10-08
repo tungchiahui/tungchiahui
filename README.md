@@ -107,16 +107,6 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
   </picture>
 </p>
 
-<p align="center"><b>Languages by Repository Count</b></p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&layout=compact&hide_border=true&theme=github_dark&size_weight=0&count_weight=1&langs_count=8&custom_title=Languages%20by%20Repository%20Count&cache_seconds=3600" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&layout=compact&hide_border=true&theme=default&size_weight=0&count_weight=1&langs_count=8&custom_title=Languages%20by%20Repository%20Count&cache_seconds=3600" />
-    <img height="165" alt="Languages weighted by repository count" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&layout=compact&hide_border=true&size_weight=0&count_weight=1&langs_count=8&custom_title=Languages%20by%20Repository%20Count&cache_seconds=3600" />
-  </picture>
-</p>
-
 <p align="center"><b>Repositories by Primary Language</b></p>
 
 <p align="center">
@@ -129,8 +119,7 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 
 <p align="center">
   <sub>
-    Top Languages = code-size distribution · Repository Count = GitHub Readme Stats count weighting ·
-    Primary Language = each public non-fork repository contributes exactly one vote.
+    Top Languages = code-size distribution · Primary Language = each public non-fork repository contributes exactly one vote.
   </sub>
 </p>
 
