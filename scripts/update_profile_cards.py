@@ -10,8 +10,10 @@ Generated files:
 
 from __future__ import annotations
 
+import hashlib
 import json
 import os
+import re
 import urllib.parse
 import urllib.request
 from collections import Counter
@@ -234,6 +236,34 @@ def render_primary_languages(theme: str, primary_counts: Counter[str], updated: 
     return svg_shell(560, 365, theme, "\n".join(parts), "Repositories by primary language")
 
 
+
+def update_readme_cache_keys() -> bool:
+    """Append content hashes to local SVG URLs so GitHub cannot serve stale images."""
+    readme_path = Path("README.md")
+    content = readme_path.read_text(encoding="utf-8")
+    updated = content
+
+    card_files = [
+        "github-stats-light.svg",
+        "github-stats-dark.svg",
+        "top-languages-light.svg",
+        "top-languages-dark.svg",
+        "repos-by-primary-language-percent-light.svg",
+        "repos-by-primary-language-percent-dark.svg",
+    ]
+
+    for filename in card_files:
+        path = OUT / filename
+        digest = hashlib.sha256(path.read_bytes()).hexdigest()[:12]
+        asset = f"./assets/{filename}"
+        pattern = re.escape(asset) + r"(?:\?v=[A-Za-z0-9._-]+)?"
+        updated = re.sub(pattern, f"{asset}?v={digest}", updated)
+
+    if updated != content:
+        readme_path.write_text(updated, encoding="utf-8")
+        return True
+    return False
+
 def main() -> None:
     profile = api_get(f"/users/{USERNAME}")
     if not isinstance(profile, dict):
@@ -286,10 +316,13 @@ def main() -> None:
             render_primary_languages(theme, primary_counts, updated), encoding="utf-8"
         )
 
+    readme_changed = update_readme_cache_keys()
+
     print(
         f"Updated profile cards: {stats['repos']} repos, "
         f"{sum(language_bytes.values()):,} language bytes, "
-        f"{sum(primary_counts.values())} primary-language votes"
+        f"{sum(primary_counts.values())} primary-language votes; "
+        f"README cache keys {'updated' if readme_changed else 'unchanged'}"
     )
 
 
