@@ -103,8 +103,20 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&layout=compact&hide_border=true&theme=github_dark&cache_seconds=3600" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&layout=compact&hide_border=true&theme=default&cache_seconds=3600" />
-    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&layout=compact&hide_border=true&cache_seconds=3600" />
+    <img height="165" alt="Most used languages by code size" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&layout=compact&hide_border=true&cache_seconds=3600" />
   </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tungchiahui&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tungchiahui&theme=github" />
+    <img height="165" alt="Repositories per primary language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tungchiahui&theme=github" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Top Languages reflects code-size distribution; Repos per Language reflects repositories grouped by their primary language.</sub>
 </p>
 
 ## 📫 Contact
