@@ -10,23 +10,23 @@
   </style>
   <text x="30" y="42" class="title">Top Languages</text>
   <rect x="30" y="70" width="500" height="12" rx="6" fill="#21262d"/>
-  <rect x="30.00" y="70" width="233.26" height="12" fill="#555555"/>
-  <rect x="263.26" y="70" width="93.46" height="12" fill="#f34b7d"/>
-  <rect x="356.72" y="70" width="75.50" height="12" fill="#3178c6"/>
-  <rect x="432.22" y="70" width="24.14" height="12" fill="#3572A5"/>
-  <rect x="456.36" y="70" width="18.50" height="12" fill="#f1e05a"/>
-  <rect x="474.86" y="70" width="15.54" height="12" fill="#41b883"/>
+  <rect x="30.00" y="70" width="232.89" height="12" fill="#555555"/>
+  <rect x="262.89" y="70" width="93.31" height="12" fill="#f34b7d"/>
+  <rect x="356.20" y="70" width="75.44" height="12" fill="#3178c6"/>
+  <rect x="431.64" y="70" width="24.10" height="12" fill="#3572A5"/>
+  <rect x="455.74" y="70" width="19.21" height="12" fill="#f1e05a"/>
+  <rect x="474.94" y="70" width="15.52" height="12" fill="#41b883"/>
   <circle cx="36" cy="107" r="5" fill="#555555"/>
-  <text x="50" y="112" class="label">C 46.65%</text>
+  <text x="50" y="112" class="label">C 46.58%</text>
   <circle cx="36" cy="139" r="5" fill="#f34b7d"/>
-  <text x="50" y="144" class="label">C++ 18.69%</text>
+  <text x="50" y="144" class="label">C++ 18.66%</text>
   <circle cx="36" cy="171" r="5" fill="#3178c6"/>
-  <text x="50" y="176" class="label">TypeScript 15.10%</text>
+  <text x="50" y="176" class="label">TypeScript 15.09%</text>
   <circle cx="306" cy="107" r="5" fill="#3572A5"/>
-  <text x="320" y="112" class="label">Python 4.83%</text>
+  <text x="320" y="112" class="label">Python 4.82%</text>
   <circle cx="306" cy="139" r="5" fill="#f1e05a"/>
-  <text x="320" y="144" class="label">JavaScript 3.70%</text>
+  <text x="320" y="144" class="label">JavaScript 3.84%</text>
   <circle cx="306" cy="171" r="5" fill="#41b883"/>
-  <text x="320" y="176" class="label">Vue 3.11%</text>
+  <text x="320" y="176" class="label">Vue 3.10%</text>
   <text x="30" y="205" class="muted">Language bytes across public, non-fork repositories · updated 2026-10-08</text>
 </svg>
