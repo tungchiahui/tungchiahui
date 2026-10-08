@@ -1,56 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="365" viewBox="0 0 560 365" role="img" aria-label="Repositories by Primary Language">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="365" viewBox="0 0 560 365" role="img" aria-label="Repositories by primary language">
   <rect x="0.5" y="0.5" width="559" height="364" rx="12" fill="#0d1117" stroke="#30363d"/>
   <style>
     text { font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; }
     .title { font-size: 22px; font-weight: 600; fill: #58a6ff; }
-    .sub { font-size: 13px; fill: #8b949e; }
-    .label { font-size: 15px; fill: #c9d1d9; }
-    .count { font-size: 15px; font-weight: 600; fill: #c9d1d9; }
+    .text { font-size: 15px; fill: #c9d1d9; }
+    .label { font-size: 14px; fill: #c9d1d9; }
+    .value { font-size: 15px; font-weight: 600; fill: #c9d1d9; }
+    .muted { font-size: 12px; fill: #8b949e; }
   </style>
   <text x="28" y="38" class="title">Repositories by Primary Language</text>
-  <text x="28" y="62" class="sub">1 public, non-fork repository = 1 vote for its GitHub primary language</text>
-
-  <g>
-    <text x="28" y="105" class="label">C++</text>
-    <rect x="145" y="92" width="325" height="12" rx="6" fill="#21262d"/>
-    <rect x="145" y="92" width="325" height="12" rx="6" fill="#f34b7d"/>
-    <text x="485" y="105" class="count">53.57%</text>
-
-    <text x="28" y="136" class="label">C</text>
-    <rect x="145" y="123" width="325" height="12" rx="6" fill="#21262d"/>
-    <rect x="145" y="123" width="87" height="12" rx="6" fill="#555555"/>
-    <text x="485" y="136" class="count">14.29%</text>
-
-    <text x="28" y="167" class="label">CMake</text>
-    <rect x="145" y="154" width="325" height="12" rx="6" fill="#21262d"/>
-    <rect x="145" y="154" width="65" height="12" rx="6" fill="#DA3434"/>
-    <text x="485" y="167" class="count">10.71%</text>
-
-    <text x="28" y="198" class="label">HTML</text>
-    <rect x="145" y="185" width="325" height="12" rx="6" fill="#21262d"/>
-    <rect x="145" y="185" width="43" height="12" rx="6" fill="#e34c26"/>
-    <text x="485" y="198" class="count">7.14%</text>
-
-    <text x="28" y="229" class="label">Shell</text>
-    <rect x="145" y="216" width="325" height="12" rx="6" fill="#21262d"/>
-    <rect x="145" y="216" width="22" height="12" rx="6" fill="#89e051"/>
-    <text x="485" y="229" class="count">3.57%</text>
-
-    <text x="28" y="260" class="label">Dockerfile</text>
-    <rect x="145" y="247" width="325" height="12" rx="6" fill="#21262d"/>
-    <rect x="145" y="247" width="22" height="12" rx="6" fill="#384d54"/>
-    <text x="485" y="260" class="count">3.57%</text>
-
-    <text x="28" y="291" class="label">Dart</text>
-    <rect x="145" y="278" width="325" height="12" rx="6" fill="#21262d"/>
-    <rect x="145" y="278" width="22" height="12" rx="6" fill="#00B4AB"/>
-    <text x="485" y="291" class="count">3.57%</text>
-
-    <text x="28" y="322" class="label">JavaScript</text>
-    <rect x="145" y="309" width="325" height="12" rx="6" fill="#21262d"/>
-    <rect x="145" y="309" width="22" height="12" rx="6" fill="#f1e05a"/>
-    <text x="485" y="322" class="count">3.57%</text>
-  </g>
-
-  <text x="28" y="348" class="sub">Share of public, non-fork repositories by GitHub primary language</text>
+  <text x="28" y="62" class="muted">Each public, non-fork repository contributes one vote for its GitHub primary language</text>
+  <text x="28" y="105" class="text">C++</text>
+  <rect x="145" y="96" width="325" height="12" rx="6" fill="#21262d"/>
+  <rect x="145" y="96" width="325.00" height="12" rx="6" fill="#f34b7d"/>
+  <text x="535" y="105" text-anchor="end" class="value">51.72%</text>
+  <text x="28" y="136" class="text">C</text>
+  <rect x="145" y="127" width="325" height="12" rx="6" fill="#21262d"/>
+  <rect x="145" y="127" width="86.67" height="12" rx="6" fill="#555555"/>
+  <text x="535" y="136" text-anchor="end" class="value">13.79%</text>
+  <text x="28" y="167" class="text">CMake</text>
+  <rect x="145" y="158" width="325" height="12" rx="6" fill="#21262d"/>
+  <rect x="145" y="158" width="65.00" height="12" rx="6" fill="#DA3434"/>
+  <text x="535" y="167" text-anchor="end" class="value">10.34%</text>
+  <text x="28" y="198" class="text">HTML</text>
+  <rect x="145" y="189" width="325" height="12" rx="6" fill="#21262d"/>
+  <rect x="145" y="189" width="43.33" height="12" rx="6" fill="#e34c26"/>
+  <text x="535" y="198" text-anchor="end" class="value">6.90%</text>
+  <text x="28" y="229" class="text">Python</text>
+  <rect x="145" y="220" width="325" height="12" rx="6" fill="#21262d"/>
+  <rect x="145" y="220" width="21.67" height="12" rx="6" fill="#3572A5"/>
+  <text x="535" y="229" text-anchor="end" class="value">3.45%</text>
+  <text x="28" y="260" class="text">Dockerfile</text>
+  <rect x="145" y="251" width="325" height="12" rx="6" fill="#21262d"/>
+  <rect x="145" y="251" width="21.67" height="12" rx="6" fill="#384d54"/>
+  <text x="535" y="260" text-anchor="end" class="value">3.45%</text>
+  <text x="28" y="291" class="text">JavaScript</text>
+  <rect x="145" y="282" width="325" height="12" rx="6" fill="#21262d"/>
+  <rect x="145" y="282" width="21.67" height="12" rx="6" fill="#f1e05a"/>
+  <text x="535" y="291" text-anchor="end" class="value">3.45%</text>
+  <text x="28" y="322" class="text">Dart</text>
+  <rect x="145" y="313" width="325" height="12" rx="6" fill="#21262d"/>
+  <rect x="145" y="313" width="21.67" height="12" rx="6" fill="#00B4AB"/>
+  <text x="535" y="322" text-anchor="end" class="value">3.45%</text>
+  <text x="28" y="353" class="muted">Share of repositories by primary language · updated 2026-10-08</text>
 </svg>

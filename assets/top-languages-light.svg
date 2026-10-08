@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Top languages by code size">
+  <rect x="0.5" y="0.5" width="494" height="194" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  <style>
+    text { font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; }
+    .title { font-size: 22px; font-weight: 600; fill: #0969da; }
+    .text { font-size: 15px; fill: #24292f; }
+    .label { font-size: 14px; fill: #24292f; }
+    .value { font-size: 15px; font-weight: 600; fill: #24292f; }
+    .muted { font-size: 12px; fill: #57606a; }
+  </style>
+  <text x="26" y="36" class="title">Top Languages</text>
+  <rect x="26" y="61" width="443" height="10" rx="5" fill="#eaeef2"/>
+  <rect x="26.00" y="61" width="233.23" height="10" fill="#e34c26"/>
+  <rect x="259.23" y="61" width="172.78" height="10" fill="#555555"/>
+  <rect x="432.00" y="61" width="11.87" height="10" fill="#f34b7d"/>
+  <rect x="443.87" y="61" width="9.41" height="10" fill="#3178c6"/>
+  <rect x="453.29" y="61" width="3.00" height="10" fill="#3572A5"/>
+  <rect x="456.29" y="61" width="2.68" height="10" fill="#f1e05a"/>
+  <circle cx="33" cy="95" r="5" fill="#e34c26"/>
+  <text x="46" y="100" class="label">HTML 52.65%</text>
+  <circle cx="33" cy="125" r="5" fill="#555555"/>
+  <text x="46" y="130" class="label">C 39.00%</text>
+  <circle cx="33" cy="155" r="5" fill="#f34b7d"/>
+  <text x="46" y="160" class="label">C++ 2.68%</text>
+  <circle cx="267" cy="95" r="5" fill="#3178c6"/>
+  <text x="280" y="100" class="label">TypeScript 2.12%</text>
+  <circle cx="267" cy="125" r="5" fill="#3572A5"/>
+  <text x="280" y="130" class="label">Python 0.68%</text>
+  <circle cx="267" cy="155" r="5" fill="#f1e05a"/>
+  <text x="280" y="160" class="label">JavaScript 0.60%</text>
+  <text x="26" y="186" class="muted">Language bytes across public, non-fork repositories · updated 2026-10-08</text>
+</svg>
