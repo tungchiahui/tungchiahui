@@ -2,9 +2,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg?v=059b0942afc0" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg?v=d8e896c88f53" />
-    <img src="./assets/profile-header-light.svg?v=d8e896c88f53" width="100%" alt="Tung Chia-hui profile banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg?v=2a39a1e90337" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg?v=0df74a5bdbc8" />
+    <img src="./assets/profile-header-light.svg?v=0df74a5bdbc8" width="100%" alt="Tung Chia-hui profile banner" />
   </picture>
 </p>
 
@@ -102,9 +102,9 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg?v=701699915720" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=903067dc8bb5" />
-    <img height="165" alt="Tung Chia-hui GitHub stats" src="./assets/github-stats-light.svg?v=903067dc8bb5" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg?v=25e742f370e1" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=feb8162a70ee" />
+    <img height="165" alt="Tung Chia-hui GitHub stats" src="./assets/github-stats-light.svg?v=feb8162a70ee" />
   </picture>
 </p>
 
@@ -112,9 +112,9 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages-dark.svg?v=7dd6170ca5ed" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/top-languages-light.svg?v=7103efc4cfc2" />
-    <img height="165" alt="Top languages by code size" src="./assets/top-languages-light.svg?v=7103efc4cfc2" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages-dark.svg?v=ec2d198a9f9d" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/top-languages-light.svg?v=8e230c1b99aa" />
+    <img height="165" alt="Top languages by code size" src="./assets/top-languages-light.svg?v=8e230c1b99aa" />
   </picture>
 </p>
 
@@ -122,9 +122,9 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/repos-by-primary-language-percent-dark.svg?v=9d9f97015727" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/repos-by-primary-language-percent-light.svg?v=bbae6c4c5f36" />
-    <img width="560" alt="Repositories grouped by GitHub primary language" src="./assets/repos-by-primary-language-percent-light.svg?v=bbae6c4c5f36" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/repos-by-primary-language-percent-dark.svg?v=11f28e7e4a09" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/repos-by-primary-language-percent-light.svg?v=45a825a74166" />
+    <img width="560" alt="Repositories grouped by GitHub primary language" src="./assets/repos-by-primary-language-percent-light.svg?v=45a825a74166" />
   </picture>
 </p>
 
