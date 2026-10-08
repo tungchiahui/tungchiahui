@@ -10,20 +10,20 @@
   </style>
   <text x="26" y="36" class="title">Top Languages</text>
   <rect x="26" y="61" width="443" height="10" rx="5" fill="#eaeef2"/>
-  <rect x="26.00" y="61" width="208.03" height="10" fill="#555555"/>
-  <rect x="234.03" y="61" width="82.34" height="10" fill="#f34b7d"/>
-  <rect x="316.37" y="61" width="66.52" height="10" fill="#3178c6"/>
-  <rect x="382.89" y="61" width="21.23" height="10" fill="#3572A5"/>
+  <rect x="26.00" y="61" width="208.01" height="10" fill="#555555"/>
+  <rect x="234.01" y="61" width="82.33" height="10" fill="#f34b7d"/>
+  <rect x="316.34" y="61" width="66.52" height="10" fill="#3178c6"/>
+  <rect x="382.86" y="61" width="21.26" height="10" fill="#3572A5"/>
   <rect x="404.12" y="61" width="16.30" height="10" fill="#f1e05a"/>
   <rect x="420.42" y="61" width="13.69" height="10" fill="#41b883"/>
   <circle cx="33" cy="95" r="5" fill="#555555"/>
   <text x="46" y="100" class="label">C 46.96%</text>
   <circle cx="33" cy="125" r="5" fill="#f34b7d"/>
-  <text x="46" y="130" class="label">C++ 18.59%</text>
+  <text x="46" y="130" class="label">C++ 18.58%</text>
   <circle cx="33" cy="155" r="5" fill="#3178c6"/>
   <text x="46" y="160" class="label">TypeScript 15.02%</text>
   <circle cx="267" cy="95" r="5" fill="#3572A5"/>
-  <text x="280" y="100" class="label">Python 4.79%</text>
+  <text x="280" y="100" class="label">Python 4.80%</text>
   <circle cx="267" cy="125" r="5" fill="#f1e05a"/>
   <text x="280" y="130" class="label">JavaScript 3.68%</text>
   <circle cx="267" cy="155" r="5" fill="#41b883"/>
