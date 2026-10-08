@@ -244,6 +244,7 @@ def update_readme_cache_keys() -> bool:
     updated = content
 
     card_files = [
+        "profile-header.svg",
         "github-stats-light.svg",
         "github-stats-dark.svg",
         "top-languages-light.svg",
