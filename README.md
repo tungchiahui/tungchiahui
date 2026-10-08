@@ -96,14 +96,14 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tungchiahui&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=3600" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tungchiahui&show_icons=true&hide_border=true&theme=default&cache_seconds=3600" />
-    <img height="165" alt="Tung Chia-hui GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tungchiahui&show_icons=true&hide_border=true&cache_seconds=3600" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg" />
+    <img height="165" alt="Tung Chia-hui GitHub stats" src="./assets/github-stats-light.svg" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&layout=compact&hide_border=true&theme=github_dark&cache_seconds=3600" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&layout=compact&hide_border=true&theme=default&cache_seconds=3600" />
-    <img height="165" alt="Most used languages by code size" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&layout=compact&hide_border=true&cache_seconds=3600" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/top-languages-light.svg" />
+    <img height="165" alt="Top languages by code size" src="./assets/top-languages-light.svg" />
   </picture>
 </p>
 
@@ -119,7 +119,8 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 
 <p align="center">
   <sub>
-    Top Languages = code-size distribution · Primary Language = each public non-fork repository contributes exactly one vote.
+    Top Languages = code-size distribution · Primary Language = each public non-fork repository contributes exactly one vote.<br>
+    Cards are generated from GitHub public data and refreshed automatically by GitHub Actions.
   </sub>
 </p>
 
