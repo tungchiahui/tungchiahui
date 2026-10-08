@@ -252,7 +252,7 @@ def main() -> None:
         "commits": commits,
         "prs": prs,
         "issues": issues,
-        "repos": len(owned_nonfork),
+        "repos": int(profile.get("public_repos", len(repos))),
     }
 
     language_bytes: Counter[str] = Counter()
