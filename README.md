@@ -1,7 +1,11 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="./assets/profile-header.svg?v=059b0942afc0" width="100%" alt="Tung Chia-hui profile banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg" />
+    <img src="./assets/profile-header-light.svg" width="100%" alt="Tung Chia-hui profile banner" />
+  </picture>
 </p>
 
 <p align="center">
