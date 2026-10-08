@@ -107,16 +107,31 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
   </picture>
 </p>
 
+<p align="center"><b>Languages by Repository Count</b></p>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tungchiahui&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tungchiahui&theme=github" />
-    <img height="165" alt="Repositories per primary language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tungchiahui&theme=github" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&layout=compact&hide_border=true&theme=github_dark&size_weight=0&count_weight=1&langs_count=8&custom_title=Languages%20by%20Repository%20Count&cache_seconds=3600" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&layout=compact&hide_border=true&theme=default&size_weight=0&count_weight=1&langs_count=8&custom_title=Languages%20by%20Repository%20Count&cache_seconds=3600" />
+    <img height="165" alt="Languages weighted by repository count" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungchiahui&layout=compact&hide_border=true&size_weight=0&count_weight=1&langs_count=8&custom_title=Languages%20by%20Repository%20Count&cache_seconds=3600" />
+  </picture>
+</p>
+
+<p align="center"><b>Repositories by Primary Language</b></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/repos-by-primary-language-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/repos-by-primary-language-light.svg" />
+    <img width="560" alt="Repositories grouped by GitHub primary language" src="./assets/repos-by-primary-language-light.svg" />
   </picture>
 </p>
 
 <p align="center">
-  <sub>Top Languages reflects code-size distribution; Repos per Language reflects repositories grouped by their primary language.</sub>
+  <sub>
+    Top Languages = code-size distribution · Repository Count = GitHub Readme Stats count weighting ·
+    Primary Language = each public non-fork repository contributes exactly one vote.
+  </sub>
 </p>
 
 ## 📫 Contact
