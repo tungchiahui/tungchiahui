@@ -22,25 +22,25 @@
   <rect x="145" y="158" width="325" height="12" rx="6" fill="#eaeef2"/>
   <rect x="145" y="158" width="60.94" height="12" rx="6" fill="#DA3434"/>
   <text x="535" y="167" text-anchor="end" class="value">10.34%</text>
-  <text x="28" y="198" class="text">Vue</text>
+  <text x="28" y="198" class="text">TypeScript</text>
   <rect x="145" y="189" width="325" height="12" rx="6" fill="#eaeef2"/>
-  <rect x="145" y="189" width="20.31" height="12" rx="6" fill="#41b883"/>
+  <rect x="145" y="189" width="20.31" height="12" rx="6" fill="#3178c6"/>
   <text x="535" y="198" text-anchor="end" class="value">3.45%</text>
   <text x="28" y="229" class="text">Python</text>
   <rect x="145" y="220" width="325" height="12" rx="6" fill="#eaeef2"/>
   <rect x="145" y="220" width="20.31" height="12" rx="6" fill="#3572A5"/>
   <text x="535" y="229" text-anchor="end" class="value">3.45%</text>
-  <text x="28" y="260" class="text">JavaScript</text>
+  <text x="28" y="260" class="text">Vue</text>
   <rect x="145" y="251" width="325" height="12" rx="6" fill="#eaeef2"/>
-  <rect x="145" y="251" width="20.31" height="12" rx="6" fill="#f1e05a"/>
+  <rect x="145" y="251" width="20.31" height="12" rx="6" fill="#41b883"/>
   <text x="535" y="260" text-anchor="end" class="value">3.45%</text>
-  <text x="28" y="291" class="text">TypeScript</text>
+  <text x="28" y="291" class="text">JavaScript</text>
   <rect x="145" y="282" width="325" height="12" rx="6" fill="#eaeef2"/>
-  <rect x="145" y="282" width="20.31" height="12" rx="6" fill="#3178c6"/>
+  <rect x="145" y="282" width="20.31" height="12" rx="6" fill="#f1e05a"/>
   <text x="535" y="291" text-anchor="end" class="value">3.45%</text>
   <text x="28" y="322" class="text">Dockerfile</text>
   <rect x="145" y="313" width="325" height="12" rx="6" fill="#eaeef2"/>
   <rect x="145" y="313" width="20.31" height="12" rx="6" fill="#384d54"/>
   <text x="535" y="322" text-anchor="end" class="value">3.45%</text>
-  <text x="28" y="353" class="muted">Share of repositories by primary language · updated 2026-10-09</text>
+  <text x="28" y="353" class="muted">Share of repositories by primary language · updated 2026-10-10</text>
 </svg>
