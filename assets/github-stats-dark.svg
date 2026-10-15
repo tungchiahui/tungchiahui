@@ -24,5 +24,5 @@
   <circle cx="36" cy="188" r="4.5" fill="#58a6ff"/>
   <text x="52" y="194" class="text">Public Repos</text>
   <text x="505" y="194" text-anchor="end" class="value">37</text>
-  <text x="30" y="205" class="muted">Public GitHub data · updated 2026-10-14</text>
+  <text x="30" y="205" class="muted">Public GitHub data · updated 2026-10-15</text>
 </svg>
