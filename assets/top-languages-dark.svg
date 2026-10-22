@@ -28,5 +28,5 @@
   <text x="320" y="144" class="label">JavaScript 3.74%</text>
   <circle cx="306" cy="171" r="5" fill="#41b883"/>
   <text x="320" y="176" class="label">Vue 3.02%</text>
-  <text x="30" y="205" class="muted">Language bytes across public, non-fork repositories · updated 2026-10-21</text>
+  <text x="30" y="205" class="muted">Language bytes across public, non-fork repositories · updated 2026-10-22</text>
 </svg>
