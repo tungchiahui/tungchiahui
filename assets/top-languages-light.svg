@@ -10,23 +10,23 @@
   </style>
   <text x="30" y="42" class="title">Top Languages</text>
   <rect x="30" y="70" width="500" height="12" rx="6" fill="#eaeef2"/>
-  <rect x="30.00" y="70" width="210.04" height="12" fill="#555555"/>
-  <rect x="240.04" y="70" width="108.94" height="12" fill="#f34b7d"/>
-  <rect x="348.98" y="70" width="76.42" height="12" fill="#3178c6"/>
-  <rect x="425.40" y="70" width="32.02" height="12" fill="#3572A5"/>
-  <rect x="457.42" y="70" width="17.18" height="12" fill="#f1e05a"/>
-  <rect x="474.60" y="70" width="15.33" height="12" fill="#DA3434"/>
+  <rect x="30.00" y="70" width="209.86" height="12" fill="#555555"/>
+  <rect x="239.86" y="70" width="108.85" height="12" fill="#f34b7d"/>
+  <rect x="348.71" y="70" width="76.35" height="12" fill="#3178c6"/>
+  <rect x="425.06" y="70" width="32.42" height="12" fill="#3572A5"/>
+  <rect x="457.48" y="70" width="17.17" height="12" fill="#f1e05a"/>
+  <rect x="474.65" y="70" width="15.32" height="12" fill="#DA3434"/>
   <circle cx="36" cy="107" r="5" fill="#555555"/>
-  <text x="50" y="112" class="label">C 42.01%</text>
+  <text x="50" y="112" class="label">C 41.97%</text>
   <circle cx="36" cy="139" r="5" fill="#f34b7d"/>
-  <text x="50" y="144" class="label">C++ 21.79%</text>
+  <text x="50" y="144" class="label">C++ 21.77%</text>
   <circle cx="36" cy="171" r="5" fill="#3178c6"/>
-  <text x="50" y="176" class="label">TypeScript 15.28%</text>
+  <text x="50" y="176" class="label">TypeScript 15.27%</text>
   <circle cx="306" cy="107" r="5" fill="#3572A5"/>
-  <text x="320" y="112" class="label">Python 6.40%</text>
+  <text x="320" y="112" class="label">Python 6.48%</text>
   <circle cx="306" cy="139" r="5" fill="#f1e05a"/>
-  <text x="320" y="144" class="label">JavaScript 3.44%</text>
+  <text x="320" y="144" class="label">JavaScript 3.43%</text>
   <circle cx="306" cy="171" r="5" fill="#DA3434"/>
-  <text x="320" y="176" class="label">CMake 3.07%</text>
-  <text x="30" y="205" class="muted">Language bytes across public, non-fork repositories · updated 2026-10-23</text>
+  <text x="320" y="176" class="label">CMake 3.06%</text>
+  <text x="30" y="205" class="muted">Language bytes across public, non-fork repositories · updated 2026-10-24</text>
 </svg>
