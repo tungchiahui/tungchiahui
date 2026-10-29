@@ -28,5 +28,5 @@
   <text x="320" y="144" class="label">JavaScript 3.38%</text>
   <circle cx="306" cy="171" r="5" fill="#DA3434"/>
   <text x="320" y="176" class="label">CMake 3.21%</text>
-  <text x="30" y="205" class="muted">Language bytes across public, non-fork repositories · updated 2026-10-28</text>
+  <text x="30" y="205" class="muted">Language bytes across public, non-fork repositories · updated 2026-10-29</text>
 </svg>
