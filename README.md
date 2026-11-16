@@ -102,9 +102,9 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg?v=c6b388a73bd3" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=9777adf74c13" />
-    <img width="560" alt="Tung Chia-hui GitHub stats" src="./assets/github-stats-light.svg?v=9777adf74c13" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg?v=b95fafd37409" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=961d8a602535" />
+    <img width="560" alt="Tung Chia-hui GitHub stats" src="./assets/github-stats-light.svg?v=961d8a602535" />
   </picture>
 </p>
 
@@ -112,9 +112,9 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages-dark.svg?v=9b9774b69edb" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/top-languages-light.svg?v=01679db20e5e" />
-    <img width="560" alt="Top languages by code size" src="./assets/top-languages-light.svg?v=01679db20e5e" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages-dark.svg?v=7946d1d67fec" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/top-languages-light.svg?v=f5266ff3b601" />
+    <img width="560" alt="Top languages by code size" src="./assets/top-languages-light.svg?v=f5266ff3b601" />
   </picture>
 </p>
 
@@ -122,9 +122,9 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/repos-by-primary-language-percent-dark.svg?v=06775141318f" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/repos-by-primary-language-percent-light.svg?v=a9d9c366e18b" />
-    <img width="560" alt="Repositories grouped by GitHub primary language" src="./assets/repos-by-primary-language-percent-light.svg?v=a9d9c366e18b" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/repos-by-primary-language-percent-dark.svg?v=0ce0179bff68" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/repos-by-primary-language-percent-light.svg?v=bee70da19783" />
+    <img width="560" alt="Repositories grouped by GitHub primary language" src="./assets/repos-by-primary-language-percent-light.svg?v=bee70da19783" />
   </picture>
 </p>
 
