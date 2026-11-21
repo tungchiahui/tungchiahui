@@ -239,10 +239,7 @@ def render_primary_languages(theme: str, primary_counts: Counter[str], updated: 
 
 
 def update_readme_cache_keys() -> bool:
-    """Append content hashes to local SVG URLs so GitHub cannot serve stale images."""
-    readme_path = Path("README.md")
-    content = readme_path.read_text(encoding="utf-8")
-    updated = content
+    """Refresh local SVG URLs in both language versions of the README."""
 
     card_files = [
         "profile-header-light.svg",
@@ -255,17 +252,24 @@ def update_readme_cache_keys() -> bool:
         "repos-by-primary-language-percent-dark.svg",
     ]
 
+    replacements = []
     for filename in card_files:
         path = OUT / filename
         digest = hashlib.sha256(path.read_bytes()).hexdigest()[:12]
         asset = f"./assets/{filename}"
-        pattern = re.escape(asset) + r"(?:\?v=[A-Za-z0-9._-]+)?"
-        updated = re.sub(pattern, f"{asset}?v={digest}", updated)
+        pattern = re.compile(re.escape(asset) + r"(?:\?v=[A-Za-z0-9._-]+)?")
+        replacements.append((pattern, f"{asset}?v={digest}"))
 
-    if updated != content:
-        readme_path.write_text(updated, encoding="utf-8")
-        return True
-    return False
+    changed = False
+    for readme_path in (Path("README.md"), Path("README-zh_CN.md")):
+        content = readme_path.read_text(encoding="utf-8")
+        updated = content
+        for pattern, url in replacements:
+            updated = pattern.sub(url, updated)
+        if updated != content:
+            readme_path.write_text(updated, encoding="utf-8")
+            changed = True
+    return changed
 
 def main() -> None:
     profile = api_get(f"/users/{USERNAME}")

@@ -1,5 +1,7 @@
 <!-- GitHub Profile README -->
 
+**English** · [简体中文](./README-zh_CN.md)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg?v=7762483a53b2" />
