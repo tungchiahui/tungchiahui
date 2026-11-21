@@ -19,11 +19,11 @@
 
 ## 👋 About Me
 
-I'm **Tung Chia-hui (DawnChay)**, a master's student in Artificial Intelligence at [Yanshan University](https://iee.ysu.edu.cn/), focusing on robotics and autonomous systems.
+I'm **Tung Chia-hui (DawnChay)**, a master's student in Artificial Intelligence in the Department of Automation at [Yanshan University's School of Electrical Engineering](https://iee.ysu.edu.cn/en/).
 
-- 🎓 B.Eng. background in Mechatronic Engineering / Robotics at [Shandong University of Technology](https://jxxy.sdut.edu.cn/).
-- 🤖 Algorithm group member of the [YSU RoboMaster Team](https://www.weibo.com/u/5743556072), working on autonomous navigation for the sentry robot.
-- ⚙️ Former captain and electrical-control lead of the [SDUT Vinci Robotics Team](https://vinci.sdut.edu.cn/).
+- 🎓 I studied Mechatronic Engineering with a track in Robotics Engineering at the [School of Mechanical Engineering, Shandong University of Technology](https://jxxyenglish.sdut.edu.cn/).
+- 🤖 I'm a member of the algorithms group on [Yanshan University's Robotics Innovation Team (Yanying)](https://notice.ysu.edu.cn/info/2264/23979.htm). I lead the development of our RoboMaster sentry robot and its autonomous navigation system.
+- ⚙️ I previously served as both captain and head of the electrical controls group on the [Vinci Robotics Team at Shandong University of Technology](https://vinci.sdut.edu.cn/).
 - 🔭 Current interests: **ROS 2, SLAM, Nav2, robot control, Embedded Linux, STM32 / RTOS, and robot communication systems**.
 
 > From low-level firmware and communication protocols to perception, localization and autonomous navigation.
@@ -44,8 +44,8 @@ Built around **C++23, Boost.Asio, asynchronous serial transport, custom binary f
 
 A self-developed mecanum-wheel mobile robot for mapping, localization and autonomous navigation.
 
-- [ROS 2 upper computer workspace](https://github.com/CyberNaviRobot/CyberRobot_ROS2_Jazzy_WS)
-- [STM32 + FreeRTOS main controller](https://github.com/CyberNaviRobot/STM32_FreeRTOS_MainController)
+- [ROS 2 Jazzy workspace](https://github.com/tungchiahui/CyberRobot_ROS2_Jazzy_WS)
+- [STM32 + FreeRTOS main controller](https://github.com/tungchiahui/CyberRobot_STM32_FreeRTOS)
 
 ## 🚀 Featured Projects
 
@@ -54,8 +54,8 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 | [**YSU2026 RoboMaster Sentry**](https://github.com/tungchiahui/ysu2026_rm_sentry) | ROS 2 · Nav2 · Livox Mid-360 · SLAM · Robot Navigation |
 | [**Serial_Pack**](https://github.com/tungchiahui/Serial_Pack) | C++23 · Boost.Asio · Serial Transport · Wire Protocol · ROS 2 |
 | [**CyberNaviRobot**](https://github.com/CyberNaviRobot) | Mecanum Chassis · STM32 · FreeRTOS · ROS 2 · Autonomous Navigation |
-| [**Personal Website**](https://github.com/tungchiahui/tungchiahui_web) | Nuxt · PostgreSQL · OpenResty · Personal Knowledge / Project Site |
-| [**ROBOCON VINCI**](https://github.com/SDUTVINCI/ROBOCON_VINCI) | Robocon Robots · Chassis Control · Embedded Systems · Team Engineering |
+| [**ROBOCON VINCI**](https://github.com/SDUTVINCI/ROBOCON_VINCI) | Competition robots · Chassis control · Embedded control systems |
+| [**Personal Website V2**](https://github.com/tungchiahui/tungchiahui_web) | Next.js · PostgreSQL · OpenResty · Bilingual content and search |
 
 <details>
 <summary><b>Selected earlier work</b></summary>
@@ -63,7 +63,7 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 
 - [2023 ROBOCON ER & RR robots](https://github.com/SDUTVINCI/ROBOCON_VINCI/tree/main/0.Historical_ROBOCON/2023ROBOCON) — steering-wheel elephant robot + mecanum-wheel rabbit robot.
 - [2024 ROBOCON three-wheel steering chassis refactor](https://github.com/MCURepo/STM32/tree/main/N46_Tri_Helm_Chassis_Rebuild).
-- [CMake Template](https://github.com/tungchiahui/CMake_Template) — reusable personal CMake project template.
+- [STM32HAL CMake C++ Template](https://github.com/tungchiahui/STM32HAL_CMake_CPP_Template) for organizing C++ application and board support code in STM32CubeMX projects.
 
 </details>
 

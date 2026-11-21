@@ -19,11 +19,11 @@
 
 ## 👋 关于我
 
-我是 **Tung Chia-hui (DawnChay)**，目前在[燕山大学](https://iee.ysu.edu.cn/)攻读人工智能硕士，主要关注机器人与自主系统。
+我是 **Tung Chia-hui（DawnChay）**，目前是[燕山大学电气工程学院](https://iee.ysu.edu.cn/)自动化系人工智能专业的硕士研究生。
 
-- 🎓 本科毕业于[山东理工大学](https://jxxy.sdut.edu.cn/)，学习方向为机电工程与机器人。
-- 🤖 [燕山大学 RoboMaster 战队](https://www.weibo.com/u/5743556072)算法组成员，参与哨兵机器人的自主导航开发。
-- ⚙️ 曾任[山东理工大学 Vinci 机器人团队](https://vinci.sdut.edu.cn/)队长和电控负责人。
+- 🎓 本科就读于[山东理工大学机械工程学院](https://jxxy.sdut.edu.cn/)，主修机械电子工程（机器人工程方向）。
+- 🤖 我是[燕山大学机器人创新团队（燕鹰战队）](https://notice.ysu.edu.cn/info/2264/23979.htm)的算法组成员，主导哨兵机器人的研发和自主导航系统的开发。
+- ⚙️ 我曾在[山东理工大学 Vinci 机器人队](https://vinci.sdut.edu.cn/)担任队长，兼任电控组组长。
 - 🔭 目前关注 **ROS 2、SLAM、Nav2、机器人控制、嵌入式 Linux、STM32 / RTOS 和机器人通信系统**。
 
 > 从底层固件与通信协议，到感知、定位与自主导航。
@@ -44,8 +44,8 @@
 
 自主开发的麦克纳姆轮移动机器人，用于建图、定位与自主导航。
 
-- [ROS 2 上位机工作空间](https://github.com/CyberNaviRobot/CyberRobot_ROS2_Jazzy_WS)
-- [STM32 + FreeRTOS 主控](https://github.com/CyberNaviRobot/STM32_FreeRTOS_MainController)
+- [ROS 2 Jazzy 上位机工作空间](https://github.com/tungchiahui/CyberRobot_ROS2_Jazzy_WS)
+- [STM32 + FreeRTOS 主控](https://github.com/tungchiahui/CyberRobot_STM32_FreeRTOS)
 
 ## 🚀 代表项目
 
@@ -54,8 +54,8 @@
 | [**YSU2026 RoboMaster Sentry**](https://github.com/tungchiahui/ysu2026_rm_sentry) | ROS 2 · Nav2 · Livox Mid-360 · SLAM · 机器人导航 |
 | [**Serial_Pack**](https://github.com/tungchiahui/Serial_Pack) | C++23 · Boost.Asio · 串口通信 · 通信协议 · ROS 2 |
 | [**CyberNaviRobot**](https://github.com/CyberNaviRobot) | 麦克纳姆轮底盘 · STM32 · FreeRTOS · ROS 2 · 自主导航 |
-| [**个人网站**](https://github.com/tungchiahui/tungchiahui_web) | Nuxt · PostgreSQL · OpenResty · 个人知识库与项目网站 |
-| [**ROBOCON VINCI**](https://github.com/SDUTVINCI/ROBOCON_VINCI) | ROBOCON 竞赛机器人 · 底盘控制 · 嵌入式系统 · 团队协作 |
+| [**ROBOCON VINCI**](https://github.com/SDUTVINCI/ROBOCON_VINCI) | 竞赛机器人 · 底盘控制 · 嵌入式电控 |
+| [**个人网站 V2**](https://github.com/tungchiahui/tungchiahui_web) | Next.js · PostgreSQL · OpenResty · 双语内容与搜索 |
 
 <details>
 <summary><b>往期项目</b></summary>
@@ -63,7 +63,7 @@
 
 - [2023 ROBOCON ER 与 RR 机器人](https://github.com/SDUTVINCI/ROBOCON_VINCI/tree/main/0.Historical_ROBOCON/2023ROBOCON) — 舵轮大象机器人与麦克纳姆轮兔子机器人。
 - [2024 ROBOCON 三舵轮底盘重构](https://github.com/MCURepo/STM32/tree/main/N46_Tri_Helm_Chassis_Rebuild)。
-- [CMake Template](https://github.com/tungchiahui/CMake_Template) — 可复用的个人 CMake 项目模板。
+- [STM32 HAL 工程的 CMake / C++ 模板](https://github.com/tungchiahui/STM32HAL_CMake_CPP_Template)，用于组织 STM32CubeMX 工程的 C++ 应用和板级支持代码。
 
 </details>
 
