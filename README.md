@@ -2,9 +2,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg?v=2a39a1e90337" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg?v=0df74a5bdbc8" />
-    <img src="./assets/profile-header-light.svg?v=0df74a5bdbc8" width="100%" alt="Tung Chia-hui profile banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg?v=e5a163cfac27" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg?v=4d92e8c93edf" />
+    <img src="./assets/profile-header-light.svg?v=4d92e8c93edf" width="100%" alt="Tung Chia-hui profile banner" />
   </picture>
 </p>
 
@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I'm **Tung Chia-hui (DawnChey)**, a master's student in Artificial Intelligence at [Yanshan University](https://iee.ysu.edu.cn/), focusing on robotics and autonomous systems.
+I'm **Tung Chia-hui (dawnchay)**, a master's student in Artificial Intelligence at [Yanshan University](https://iee.ysu.edu.cn/), focusing on robotics and autonomous systems.
 
 - 🎓 B.Eng. background in Mechatronic Engineering / Robotics at [Shandong University of Technology](https://jxxy.sdut.edu.cn/).
 - 🤖 Algorithm group member of the [YSU RoboMaster Team](https://www.weibo.com/u/5743556072), working on autonomous navigation for the sentry robot.
