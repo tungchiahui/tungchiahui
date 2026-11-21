@@ -102,9 +102,9 @@ A self-developed mecanum-wheel mobile robot for mapping, localization and autono
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg?v=56c7cda15c46" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=0468530bde9a" />
-    <img width="560" alt="Tung Chia-hui GitHub stats" src="./assets/github-stats-light.svg?v=0468530bde9a" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg?v=f536eaa81b44" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=95c1da503745" />
+    <img width="560" alt="Tung Chia-hui GitHub stats" src="./assets/github-stats-light.svg?v=95c1da503745" />
   </picture>
 </p>
 
