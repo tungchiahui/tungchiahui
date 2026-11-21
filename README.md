@@ -19,12 +19,13 @@
 
 ## 👋 About Me
 
-I'm **Tung Chia-hui (DawnChay)**, a master's student in Artificial Intelligence in the Department of Automation at [Yanshan University's School of Electrical Engineering](https://iee.ysu.edu.cn/en/).
+**Tung Chia-hui (DawnChay)**
 
-- 🎓 I studied Mechatronic Engineering with a track in Robotics Engineering at the [School of Mechanical Engineering, Shandong University of Technology](https://jxxyenglish.sdut.edu.cn/).
-- 🤖 I'm a member of the algorithms group on [Yanshan University's Robotics Innovation Team (Yanying)](https://notice.ysu.edu.cn/info/2264/23979.htm). I lead the development of our RoboMaster sentry robot and its autonomous navigation system.
-- ⚙️ I previously served as both captain and head of the electrical controls group on the [Vinci Robotics Team at Shandong University of Technology](https://vinci.sdut.edu.cn/).
-- 🔭 Current interests: **ROS 2, SLAM, Nav2, robot control, Embedded Linux, STM32 / RTOS, and robot communication systems**.
+- 🎓 Master's student in Artificial Intelligence, Department of Automation, [School of Electrical Engineering, Yanshan University](https://iee.ysu.edu.cn/en/).
+- 🎓 Undergraduate studies in Mechatronic Engineering (Robotics Engineering track) at the [School of Mechanical Engineering, Shandong University of Technology](https://jxxyenglish.sdut.edu.cn/).
+- 🤖 Algorithms group member on [Yanshan University's Robotics Innovation Team (Yanying)](https://notice.ysu.edu.cn/info/2264/23979.htm), leading the development of the RoboMaster sentry robot and its autonomous navigation system.
+- ⚙️ Former captain and head of the electrical controls group on the [Vinci Robotics Team at Shandong University of Technology](https://vinci.sdut.edu.cn/).
+- 🔭 Technical interests include **ROS 2, SLAM, Nav2, robot control, Embedded Linux, STM32 / RTOS, and robot communication systems**.
 
 > From low-level firmware and communication protocols to perception, localization and autonomous navigation.
 
