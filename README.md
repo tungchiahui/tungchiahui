@@ -23,8 +23,8 @@
 
 - 🎓 Master's student in Artificial Intelligence, Department of Automation, [School of Electrical Engineering, Yanshan University](https://iee.ysu.edu.cn/en/).
 - 🎓 Undergraduate studies in Mechatronic Engineering (Robotics Engineering track) at the [School of Mechanical Engineering, Shandong University of Technology](https://jxxyenglish.sdut.edu.cn/).
-- 🤖 Algorithms group member on [Yanshan University's Robotics Innovation Team (Yanying)](https://notice.ysu.edu.cn/info/2264/23979.htm), leading the development of the RoboMaster sentry robot and its autonomous navigation system.
-- ⚙️ Former captain and head of the electrical controls group on the [Vinci Robotics Team at Shandong University of Technology](https://vinci.sdut.edu.cn/).
+- 🤖 Algorithms group member on [Yanshan University's Robotics Innovation Team (Yanying)](https://notice.ysu.edu.cn/info/2264/23979.htm), leading the development of the [RoboMaster](https://www.robomaster.com/zh-CN) sentry robot and its autonomous navigation system.
+- ⚙️ Former captain and head of the electrical controls group on the [Vinci Robotics Team at Shandong University of Technology](https://vinci.sdut.edu.cn/). Led development of the complete electrical control systems on both the ER and RR robots for [ROBOCON](https://www.robocon.org.cn/) 2023.
 - 🔭 Technical interests include **ROS 2, SLAM, Nav2, robot control, Embedded Linux, STM32 / RTOS, and robot communication systems**.
 
 > From low-level firmware and communication protocols to perception, localization and autonomous navigation.

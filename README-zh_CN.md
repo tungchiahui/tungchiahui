@@ -23,8 +23,8 @@
 
 - 🎓 [燕山大学电气工程学院](https://iee.ysu.edu.cn/)自动化系，人工智能专业硕士研究生。
 - 🎓 [山东理工大学机械工程学院](https://jxxy.sdut.edu.cn/)本科，机械电子工程专业（机器人工程方向）。
-- 🤖 [燕山大学机器人创新团队（燕鹰战队）](https://notice.ysu.edu.cn/info/2264/23979.htm)算法组成员，主导哨兵机器人研发和自主导航系统开发。
-- ⚙️ 曾任[山东理工大学 Vinci 机器人队](https://vinci.sdut.edu.cn/)队长兼电控组组长。
+- 🤖 [燕山大学机器人创新团队（燕鹰战队）](https://notice.ysu.edu.cn/info/2264/23979.htm)算法组成员，主导 [RoboMaster](https://www.robomaster.com/zh-CN) 哨兵机器人研发和自主导航系统开发。
+- ⚙️ 曾任[山东理工大学 Vinci 机器人队](https://vinci.sdut.edu.cn/)队长兼电控组组长，主导 2023 [ROBOCON](https://www.robocon.org.cn/) 的 ER 和 RR 两台机器人的整车电控开发。
 - 🔭 技术兴趣包括 **ROS 2、SLAM、Nav2、机器人控制、嵌入式 Linux、STM32 / RTOS 和机器人通信系统**。
 
 > 从底层固件与通信协议，到感知、定位与自主导航。
