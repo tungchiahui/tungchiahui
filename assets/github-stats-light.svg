@@ -11,7 +11,7 @@
   <text x="30" y="42" class="title">Tung Chia-hui's GitHub Stats</text>
   <circle cx="36" cy="76" r="4.5" fill="#0969da"/>
   <text x="52" y="82" class="text">Total Stars</text>
-  <text x="505" y="82" text-anchor="end" class="value">15</text>
+  <text x="505" y="82" text-anchor="end" class="value">18</text>
   <circle cx="36" cy="104" r="4.5" fill="#0969da"/>
   <text x="52" y="110" class="text">Total Commits</text>
   <text x="505" y="110" text-anchor="end" class="value">2,074</text>
@@ -24,5 +24,5 @@
   <circle cx="36" cy="188" r="4.5" fill="#0969da"/>
   <text x="52" y="194" class="text">Public Repos</text>
   <text x="505" y="194" text-anchor="end" class="value">40</text>
-  <text x="30" y="205" class="muted">Public GitHub data · updated 2026-11-22</text>
+  <text x="30" y="205" class="muted">Public GitHub data · updated 2026-11-23</text>
 </svg>
