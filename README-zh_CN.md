@@ -105,9 +105,9 @@
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg?v=8ba6c1a73143" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=fad364d0a9c4" />
-    <img width="560" alt="Tung Chia-hui 的 GitHub 统计" src="./assets/github-stats-light.svg?v=fad364d0a9c4" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg?v=eca91ba39c0f" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg?v=0082a3ad7561" />
+    <img width="560" alt="Tung Chia-hui 的 GitHub 统计" src="./assets/github-stats-light.svg?v=0082a3ad7561" />
   </picture>
 </p>
 
@@ -115,9 +115,9 @@
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages-dark.svg?v=00b984a61f9f" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/top-languages-light.svg?v=adb18b0e9209" />
-    <img width="560" alt="按代码量统计的主要语言" src="./assets/top-languages-light.svg?v=adb18b0e9209" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages-dark.svg?v=b192f62afc35" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/top-languages-light.svg?v=9bea2642fea2" />
+    <img width="560" alt="按代码量统计的主要语言" src="./assets/top-languages-light.svg?v=9bea2642fea2" />
   </picture>
 </p>
 
@@ -125,9 +125,9 @@
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/repos-by-primary-language-percent-dark.svg?v=e710e4d20029" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/repos-by-primary-language-percent-light.svg?v=3ea0657e2ca3" />
-    <img width="560" alt="按 GitHub 标注的主要语言统计的仓库分布" src="./assets/repos-by-primary-language-percent-light.svg?v=3ea0657e2ca3" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/repos-by-primary-language-percent-dark.svg?v=64e755db666a" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/repos-by-primary-language-percent-light.svg?v=e214cf530f38" />
+    <img width="560" alt="按 GitHub 标注的主要语言统计的仓库分布" src="./assets/repos-by-primary-language-percent-light.svg?v=e214cf530f38" />
   </picture>
 </p>
 
