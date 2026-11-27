@@ -10,23 +10,23 @@
   </style>
   <text x="30" y="42" class="title">Top Languages</text>
   <rect x="30" y="70" width="500" height="12" rx="6" fill="#eaeef2"/>
-  <rect x="30.00" y="70" width="212.31" height="12" fill="#555555"/>
-  <rect x="242.31" y="70" width="101.37" height="12" fill="#3178c6"/>
-  <rect x="343.68" y="70" width="91.29" height="12" fill="#f34b7d"/>
-  <rect x="434.97" y="70" width="24.26" height="12" fill="#3572A5"/>
-  <rect x="459.23" y="70" width="17.51" height="12" fill="#f1e05a"/>
-  <rect x="476.74" y="70" width="14.15" height="12" fill="#41b883"/>
+  <rect x="30.00" y="70" width="212.22" height="12" fill="#555555"/>
+  <rect x="242.22" y="70" width="101.53" height="12" fill="#3178c6"/>
+  <rect x="343.75" y="70" width="91.26" height="12" fill="#f34b7d"/>
+  <rect x="435.01" y="70" width="24.25" height="12" fill="#3572A5"/>
+  <rect x="459.26" y="70" width="17.50" height="12" fill="#f1e05a"/>
+  <rect x="476.76" y="70" width="14.14" height="12" fill="#41b883"/>
   <circle cx="36" cy="107" r="5" fill="#555555"/>
-  <text x="50" y="112" class="label">C 42.46%</text>
+  <text x="50" y="112" class="label">C 42.44%</text>
   <circle cx="36" cy="139" r="5" fill="#3178c6"/>
-  <text x="50" y="144" class="label">TypeScript 20.27%</text>
+  <text x="50" y="144" class="label">TypeScript 20.31%</text>
   <circle cx="36" cy="171" r="5" fill="#f34b7d"/>
-  <text x="50" y="176" class="label">C++ 18.26%</text>
+  <text x="50" y="176" class="label">C++ 18.25%</text>
   <circle cx="306" cy="107" r="5" fill="#3572A5"/>
   <text x="320" y="112" class="label">Python 4.85%</text>
   <circle cx="306" cy="139" r="5" fill="#f1e05a"/>
   <text x="320" y="144" class="label">JavaScript 3.50%</text>
   <circle cx="306" cy="171" r="5" fill="#41b883"/>
   <text x="320" y="176" class="label">Vue 2.83%</text>
-  <text x="30" y="205" class="muted">Language bytes across public, non-fork repositories · updated 2026-11-26</text>
+  <text x="30" y="205" class="muted">Language bytes across public, non-fork repositories · updated 2026-11-27</text>
 </svg>
